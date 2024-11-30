@@ -1,0 +1,46 @@
+body {background-image: url("backgroundreflection.jpg");background-size:cover;}
+h1.h1_1 {display: block; font-size: 85px; color: white; font-family: Poppins; font-weight: bold; text-align: center;text-shadow: 2px 2px 8px black;}
+div.div2 {background-color:#450045; margin: auto; position: relative;box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+.button1{background-image: linear-gradient(to right, #ebbf13 , #8f750b);padding: 35px 100px; font-size: 25px; border-radius:50px;box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+.button2{background-image: linear-gradient(to right, #ebbf13 , #8f750b);padding: 35px 100px; font-size: 25px; border-radius:50px;box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin-bottom:15px; margin-top: 15px}
+.button3{background-image: linear-gradient(to right, purple, #450045);padding: 35px 100px; font-size: 25px; border-radius:50px;box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin-bottom:15px; margin-top: 15px}
+button {font-family:Aptos; 
+	background-color: purple;
+	border: none;
+	color: white;
+	font-weight:bold;
+	text-shadow: 2px 2px 8px black;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 4px 2px;
+	padding: 15;
+cursor:pointer;}
+ul {  list-style-type: none;
+  margin: 0;
+  padding: 0;}
+li { display: inline;}
+p.sticky {
+  position: sticky;
+  font-family: Aptos;
+  font-weight: bold;
+  top: 0;
+  right: 0;
+  border: none;
+margin: auto;
+text-align:center;
+background-color: purple;}
+div.div1{background-color:white; border-radius:25px; width: 1920px; height: 500px; margin: auto; position: relative; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);padding:15px;padding-left:35px;padding-right:35px}
+div.div3{background-image: linear-gradient(to right, #8c018c , #ebbf13);border-radius:100px; width: 1950px; margin: auto; position: relative; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);padding:15px;padding-left:35px;padding-right:35px}
+h1.h1_2 {display: block; font-size: 85px; color: white; font-family: Poppins; font-weight: bold; text-align: center;text-shadow: 2px 2px 5px black; margin: auto;}
+img.pic1 {float:left; border-radius: 25px; width: 500px; height: 500px;box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+p.p1 {font-family: Poppins; color: black; font-size: 25px; text-align: justify;}
+iframe {border-radius:20px; }
+iframe:hover{box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+div.div4{background-color:white; border-radius:25px; width: 1920px; height: 600px; margin: auto; position: relative; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);padding:15px;padding-left:35px;padding-right:35px}
+div.div5{background-image: linear-gradient(to right,  #ebbf13, #8c018c);border-radius:100px; width: 1950px; margin: auto; position: relative; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);padding:15px;padding-left:35px;padding-right:35px}
+img.picleft {float:left; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);border-radius:25px}
+img.picright {float:right; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);border-radius:25px}
+video.videofullwidth{border-radius:25px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+img{border-radius:25px;box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+p.bodytext {font-family: Bookman Old Style; font-size: 30px; text-align:justify; font-weight: 300;line-height: 45px;color:black;}
